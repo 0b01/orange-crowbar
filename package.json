@@ -1,0 +1,22 @@
+{
+    "name": "orange-crowbar",
+    "displayName": "Orange Crowbar",
+    "description": "because orange themes are not dark enough",
+    "version": "0.0.1",
+    "publisher": "rickyhan",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Orange crowbar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Orange crowbar-color-theme.json"
+            }
+        ]
+    }
+}
